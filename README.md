@@ -21,7 +21,7 @@ Telegram and Discord support, Getting of User IP, Country, State/Region, City, I
  - [NGROK](https://ngrok.com/download) (or any other host)
  * If u wanna use telegram:
  - [Telegram BOT](https://t.me/BotFather) (create bot here)
- - [Telegram Chat ID](https://t.me/chatid_echo_bot) (get chat id here)
+ - [Telegram Chat ID](https://t.me/myidbot) (get chat id here)
  * If u wanna use discord:
  - Discord Server and Webhook URL
 
