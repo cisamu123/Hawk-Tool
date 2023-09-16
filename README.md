@@ -30,7 +30,17 @@ Edit config.json:
 
 <img src="https://github.com/cisamu123/Hawk-Tool/blob/main/images/config.png" alt="Config.json"/>
 
-Run file "start.bat"
+Execute the following commands in the command prompt (cmd):
+1. npm install express
+2. npm install axios
+3. npm install node-telegram-bot-api
+4. npm install request-ip
+5. node main.js
+6. ngrok http 3000
+
+WARNING: In paragraph 6, you can also use any other host, but the host must use port 3000 and must also be HTTP.
+
+Here's an example of an ngrok HTTP URL that you can share with anyone: https://7c01-195-16-79-84.ngrok-free.app
 
 # :moneybag: Donate:
 **BTC:** `bc1q5exw2v9sa0yktp2t7xnq8ma2xpn5a29s7w283y`  
