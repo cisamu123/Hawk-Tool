@@ -16,6 +16,10 @@
 # :fallen_leaf: Functions and Features:
 Telegram and Discord support, Getting of User IP, Country, State/Region, City, ISP, User Agent, Platform
 
+# 🦅 Report Example:
+
+<img src="https://github.com/cisamu123/Hawk-Tool/blob/main/images/TelegramReport.png" alt="Telegram Report"/>
+
 # Requirements:
  - [Node JS](https://nodejs.org/en)
  - [NGROK](https://ngrok.com/download) (or any other host)
