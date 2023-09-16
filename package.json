@@ -1,0 +1,19 @@
+{
+  "name": "hawk-tool",
+  "version": "1.0.0",
+  "description": "Hawk-Tool is a powerful and versatile utility designed to capture a wealth of information about visitors to your specified URLs. This comprehensive tool seamlessly retrieves the user's IP address, device details, geolocation data, and a wealth of other relevant information, all in real-time",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cisamu123/Hawk-Tool.git"
+  },
+  "author": "Cisamu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cisamu123/Hawk-Tool/issues"
+  },
+  "homepage": "https://github.com/cisamu123/Hawk-Tool#readme"
+}
